@@ -1,2 +1,5 @@
-name
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap');
+.md-tabs__link {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 700;
+}
