@@ -1,2 +1,3 @@
-bienvenue au repair café de cuincy
+# À propos du Repair Café
 
+bienvenue au repair café de cuincy
