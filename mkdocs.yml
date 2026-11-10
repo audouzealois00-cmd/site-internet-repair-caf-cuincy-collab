@@ -1,9 +1,8 @@
 site_name: My Docs
 nav:
   - Home: index.md
-  - : about.md
+  - A propos: about.md
   
-nav_style: dark
 theme:
   name: material
   language: fr
@@ -18,14 +17,6 @@ theme:
     - search.suggest    # Suggestions automatiques dans la recherche  
   extra_css:
     - stylesheets/extra.css
-
-include_homepage_in_sidebar: True
-titles_only: True
-sticky_navigation: True
-locale: en 
-locale: fr
-locale: de
-
 
   
   
