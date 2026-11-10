@@ -2,7 +2,7 @@ site_name: My Docs
 nav:
   - Home: index.md
   - About: about.md
-
+nav_style: dark
 theme:
   name: material
   palette:
@@ -16,5 +16,16 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.suggest
-extra_css:
-  - stylesheets/extra.css
+  extra_css:
+    - stylesheets/extra.css
+
+include_homepage_in_sidebar: True
+titles_only: True
+sticky_navigation: True
+locale: en 
+locale: fr
+locale: de
+
+
+  
+  
