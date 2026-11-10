@@ -1,21 +1,21 @@
 site_name: My Docs
 nav:
   - Home: index.md
-  - About: about.md
+  - : about.md
+  
 nav_style: dark
 theme:
   name: material
+  language: fr
   palette:
-    # Mode clair ou sombre
+    # Mode clair ou sombre automatique / par défaut
     scheme: default
-    # Couleur principale (ex: indigo, blue, red, teal...)
-    primary: indigo
-    # Couleur d'accentuation
-    accent: light blue
+    primary: teal       # Couleur principale (ex: teal, indigo, blue, green...)
+    accent: light blue  # Couleur d'accentuation
   features:
-    - navigation.tabs
-    - navigation.top
-    - search.suggest
+    - navigation.tabs   # Active les onglets horizontaux en haut
+    - navigation.top    # Bouton retour en haut de page
+    - search.suggest    # Suggestions automatiques dans la recherche  
   extra_css:
     - stylesheets/extra.css
 
