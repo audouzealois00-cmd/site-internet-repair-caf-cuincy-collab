@@ -73,7 +73,7 @@ opacity: 1;
 }
 .md-typeset a:hover img {
   background-color: #FFD19C;
-  opacity: 1.0;
+  opacity: 0.8;
 }
 
 /* ONGLET ACTIF */
