@@ -8,34 +8,3 @@
   font-weight: 600;
 }
 
-<div class="grid cards" markdown>
-
--   :material-clock-fast:{ .lg .middle } **Mise en place rapide**
-    [:octicons-arrow-right-24: Démarrer](#)
--   :material-shield-check:{ .lg .middle } **Sécurisé par défaut**
-    [:octicons-arrow-right-24: En savoir plus](#)
-
-</div>
-
-<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;">
-  <div style="flex: 1; min-width: 280px;">
-    <h2 style="margin-top: 0;">Titre principal accrocheur</h2>
-    <p>Votre description claire et concise pour expliquer la valeur ajoutée de votre projet.</p>
-    <a href="#" class="md-button md-button--primary">Commencer</a>
-    <a href="#" class="md-button">Documentation</a>
-  </div>
-  <div style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="chemin/vers/image.png" alt="Aperçu" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  </div>
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
-  <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Titre 1</h3>
-    <p style="margin-bottom: 0;">Contenu de la première boîte avec un espacement propre.</p>
-  </div>
-  <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Titre 2</h3>
-    <p style="margin-bottom: 0;">Contenu de la deuxième boîte qui s'adapte sur mobile.</p>
-  </div>
-</div>
