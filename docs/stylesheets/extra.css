@@ -71,6 +71,12 @@ transition: all 0.25s ease;
 color: #FFD19C !important;
 opacity: 1;
 }
+.md-typeset a:hover img {
+  outline: 3px solid #FFD19C;
+  box-shadow: 0 0 12px #FFD19C;
+  border-radius: 6px;
+  transition: all 0.2s ease-in-out;
+}
 
 /* ONGLET ACTIF */
 .md-tabs__link--active {
