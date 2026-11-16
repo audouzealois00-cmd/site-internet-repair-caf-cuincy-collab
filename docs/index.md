@@ -11,6 +11,6 @@ ________________________________________________________________________________
 |Suivez nous sur Instagram, Facebook|
 ||
 |<img width="51" height="50" alt="image" src="https://github.com/user-attachments/assets/4c428e4f-a483-4b45-8639-d91e5f85888f" />
-() |https://www.instagram.com/repair_cafe_cuincy/|
+|https://www.instagram.com/repair_cafe_cuincy/|
 
 
