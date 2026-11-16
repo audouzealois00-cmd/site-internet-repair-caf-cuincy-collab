@@ -13,7 +13,7 @@ theme:
   palette:
     # Mode clair ou sombre automatique / par défaut
     scheme: default
-    accent: dark orange  # Couleur d'accentuation
+    color: dark orange  # Couleur d'accentuation
   features:
     - navigation.tabs   # Active les onglets horizontaux en haut
     - navigation.top    # Bouton retour en haut de page
