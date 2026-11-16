@@ -12,7 +12,7 @@ theme:
   language: fr
   palette:
     scheme: default
-    primary: deep orange
+    primary: orange
   features:
     - navigation.tabs
     - navigation.top
