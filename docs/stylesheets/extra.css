@@ -17,3 +17,151 @@
   height: 100px;
   width: auto;
 }
+
+:root {
+--rc-orange: #F47718;
+--rc-orange-dark: #D95B08;
+--rc-blue: #102C49;
+--rc-blue-light: #1C4568;
+--rc-white: #FFFFFF;
+--rc-background: #F2F5F8;
+}
+
+/* BANDEAU PRINCIPAL */
+.md-header {
+background: var(--rc-orange) !important;
+box-shadow: 0 3px 10px rgba(0,0,0,0.20);
+}
+
+/* LOGO */
+.md-header__button.md-logo img {
+height: 65px;
+width: auto;
+max-width: 90px;
+object-fit: contain;
+}
+
+/* NOM DU SITE */
+.md-header__title {
+font-weight: 800;
+letter-spacing: 0.2px;
+}
+
+.md-header__topic {
+color: var(--rc-white);
+}
+
+/* BARRE DE NAVIGATION */
+.md-tabs {
+background: var(--rc-blue) !important;
+box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+}
+
+/* LIENS DU MENU */
+.md-tabs__link {
+color: var(--rc-white) !important;
+font-weight: 600;
+font-size: 15px;
+opacity: 0.9;
+transition: all 0.25s ease;
+}
+
+/* SURVOL DES MENUS */
+.md-tabs__link:hover {
+color: #FFD19C !important;
+opacity: 1;
+}
+
+/* ONGLET ACTIF */
+.md-tabs__link--active {
+color: var(--rc-white) !important;
+opacity: 1;
+border-bottom: 3px solid var(--rc-orange);
+}
+
+/* RECHERCHE */
+.md-search__form {
+border-radius: 25px;
+background: rgba(255,255,255,0.18);
+}
+
+.md-search__input {
+border-radius: 25px !important;
+}
+
+/* BOUTONS */
+.md-button {
+border-radius: 25px;
+font-weight: 700;
+transition: 0.25s ease;
+}
+
+.md-button--primary {
+background: var(--rc-orange);
+border-color: var(--rc-orange);
+color: white;
+}
+
+.md-button--primary:hover {
+background: var(--rc-orange-dark);
+border-color: var(--rc-orange-dark);
+}
+
+/* TITRES */
+.md-content h1,
+.md-content h2 {
+color: var(--rc-blue);
+font-weight: 800;
+}
+
+.md-content h2 {
+border-bottom: 3px solid var(--rc-orange);
+padding-bottom: 8px;
+}
+
+/* CARTES */
+.md-typeset .admonition,
+.md-typeset details {
+border-radius: 12px;
+}
+
+/* LIENS */
+.md-content a {
+color: var(--rc-orange-dark);
+font-weight: 600;
+}
+
+.md-content a:hover {
+color: var(--rc-blue);
+}
+
+/* PIED DE PAGE */
+.md-footer {
+background: var(--rc-blue);
+}
+
+.md-footer-meta {
+background: #0B2036;
+}
+
+/* ADAPTATION MOBILE */
+@media screen and (max-width: 768px) {
+
+.md-header__button.md-logo img {
+height: 48px;
+max-width: 65px;
+}
+
+.md-header__title {
+font-size: 0.85rem;
+}
+
+.md-tabs__link {
+font-size: 13px;
+margin: 0 5px;
+}
+
+.md-content h1 {
+font-size: 1.7rem;
+}
+}
