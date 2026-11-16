@@ -1,22 +1,15 @@
 Repair café cuincy
 
-________________________________________________________________________________________________________________________________________________________________________________
-
-
-
+_____________________________________________________________________________________________________________________________
 
 <img width="235" height="51" alt="image" src="https://github.com/user-attachments/assets/d2c75174-9974-4527-b0ab-0d278e767982" />
 
 
-
-
-
-
+  
 Suivez nous sur Instagram, Facebook
 
 
-
-
+  
 
 [<img width="43" height="54" alt="image" src="https://github.com/user-attachments/assets/436b233f-c874-49fe-b9cb-c35a04115094" />
 ](https://www.instagram.com/repair_cafe_cuincy/)
