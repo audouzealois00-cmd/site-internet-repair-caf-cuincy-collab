@@ -13,8 +13,7 @@ theme:
   palette:
     # Mode clair ou sombre automatique / par défaut
     scheme: default
-    primary: orange # Couleur principale (ex: teal, indigo, blue, green...)
-    accent: light blue  # Couleur d'accentuation
+    accent: dark blue  # Couleur d'accentuation
   features:
     - navigation.tabs   # Active les onglets horizontaux en haut
     - navigation.top    # Bouton retour en haut de page
