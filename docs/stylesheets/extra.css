@@ -19,7 +19,7 @@
 }
 
 :root {
---rc-orange: #F47718;
+--rc-orange: #F27249;
 --rc-orange-dark: #D95B08;
 --rc-blue: #102C49;
 --rc-blue-light: #1C4568;
@@ -89,23 +89,6 @@ background: rgba(255,255,255,0.18);
 border-radius: 25px !important;
 }
 
-/* BOUTONS */
-.md-button {
-border-radius: 25px;
-font-weight: 700;
-transition: 0.25s ease;
-}
-
-.md-button--primary {
-background: var(--rc-orange);
-border-color: var(--rc-orange);
-color: white;
-}
-
-.md-button--primary:hover {
-background: var(--rc-orange-dark);
-border-color: var(--rc-orange-dark);
-}
 
 /* TITRES */
 .md-content h1,
