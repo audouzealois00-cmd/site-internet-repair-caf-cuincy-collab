@@ -5,21 +5,18 @@ nav:
   - Communauté: communauté.md
   - FAQ: faq.md
   - Contacts: contacts.md
-  -A propos: about.md
-  
+  - A propos: about.md
+
 theme:
   name: material
   language: fr
   palette:
-    # Mode clair ou sombre automatique / par défaut
     scheme: default
-    color: dark orange  # Couleur d'accentuation
+    primary: deep orange
   features:
-    - navigation.tabs   # Active les onglets horizontaux en haut
-    - navigation.top    # Bouton retour en haut de page
-    - search.suggest    # Suggestions automatiques dans la recherche  
-  extra_css:
-    - stylesheets/extra.css
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
 
-  
-  
+extra_css:
+  - stylesheets/extra.css
