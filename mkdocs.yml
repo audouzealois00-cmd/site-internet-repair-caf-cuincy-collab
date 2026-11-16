@@ -1,11 +1,11 @@
 site_name: My Docs
 nav:
   - Home: index.md
-  - A propos: about.md
   - Rejoindre: rejoindre.md
   - Communauté: communauté.md
   - FAQ: faq.md
   - Contacts: contacts.md
+  -A propos: about.md
   
 theme:
   name: material
