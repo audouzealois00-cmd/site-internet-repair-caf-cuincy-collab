@@ -12,7 +12,7 @@ theme:
   language: fr
   logo: logo.png
   palette:
-    scheme: slate
+    scheme: default
     primary: deep orange
     accent: orange
   features:
