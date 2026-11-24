@@ -13,7 +13,7 @@ theme:
   logo: logo.png
   palette:
     scheme: default
-    primary: deep orange
+    primary: blue
     accent: orange
   features:
     - navigation.tabs
