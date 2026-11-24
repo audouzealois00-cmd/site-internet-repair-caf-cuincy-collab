@@ -1,7 +1,5 @@
 voici les tutos
 
-<script>
-(() => {
 <div id="ifixit-app" style="margin-top: 20px; font-family: inherit;">
   <!-- En-tête et partenaire -->
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; margin-bottom: 15px;">
@@ -159,8 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Lancement automatique d'une recherche initiale au chargement de la page
   rechercherTutos();
 });
-</script>
-</script>
+
 
 _____________________________________________________________________________________________________________________________
 
