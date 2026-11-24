@@ -1,4 +1,4 @@
-site_name: Repair café Cuincy
+site_name: Repair café Cuincy 2
 nav:
   - Home: index.md
   - Rejoindre: rejoindre.md
@@ -13,7 +13,7 @@ theme:
   logo: logo.png
   palette:
     scheme: default
-    primary: blue
+    primary: deep orange
     accent: orange
   features:
     - navigation.tabs
